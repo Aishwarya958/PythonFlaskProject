@@ -1,3 +1,4 @@
+
 create table postAd(
   id  Integer primary key autoincrement,
   firstname text not null,
